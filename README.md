@@ -58,7 +58,7 @@ Actualmente me encuentro enfocado en oportunidades como **Backend Developer**.
 # 🌐 Contacto
 
 <p align="left">
-<a href="https://linkedin.com/in/TU_LINKEDIN" target="blank">
+<a href="https://www.linkedin.com/in/agustin-baptista" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
