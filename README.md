@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://drive.google.com/uc?export=view&id=1NxtyhI9GTAF8cb97aSf_yKWlaA-KISXz" alt="Agustin Baptista Banner"/>
+<img width="100%" src="https://raw.githubusercontent.com/agustinbaptista/agustinbaptista/refs/heads/main/01c2ec06-3f3d-4e4a-8cfd-ab38668d1e4a.png" alt="Agustin Baptista Banner"/>
 </div>
 
 ---
@@ -52,20 +52,6 @@ Actualmente me encuentro enfocado en oportunidades como **Backend Developer**.
 ✅ Arquitectura Backend  
 ✅ Integración con Bases de Datos  
 ✅ Clean Code & Refactoring
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
